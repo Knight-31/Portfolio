@@ -1,1 +1,1 @@
-# Portfolio
+Portfolio" is a personal portfolio project that I have created. It contains all the necessary code and files for building a website that showcases my work and achievements. The portfolio website includes various sections such as an about me page, projects, skills, and contact information. By exploring the repository, you can see the code, design, and functionality of my portfolio website. It can serve as a reference or template for your own portfolio project, helping you showcase your own work in a professional and visually appealing manner.
